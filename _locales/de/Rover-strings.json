@@ -76,6 +76,6 @@
   "{id:category}Rover": "Rover",
   "{id:group}Commands": "Commandes",
   "{id:group}LEDs": "LED",
-  "{id:group}Motors": "Moteurs",
-  "{id:group}Sensors": "Capteurs"
+  "{id:group}Motors": "Motoren",
+  "{id:group}Sensors": "Sensoren"
 }
